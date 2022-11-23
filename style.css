@@ -1,0 +1,15 @@
+
+.imagename {
+    font-size: medium;
+    font-weight: bold; 
+    color:darkgrey;
+    text-align: center;
+}
+
+#title {
+    font-size: large;
+    font-weight: bolder;
+    color: brown;
+    text-align: center;
+    margin-top: 40px;
+}
